@@ -20,18 +20,15 @@ I'm Zayd Mousa.
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ZaydMousa) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-maffioli/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zayd.m.real@gmail.com)
 
 <!-- TODO: Improve BIO Section -->
-
 - 🔭 I’m currently open to exciting job opportunities.
-- ☕ Can I offer you a [virtual coffee](https://calendly.com/pablo-maffioli/15-min-virtual-coffee)?
-- :computer: Most used line of code `const issue = resolve`
-- 📫 How to reach me: pablo.maff.076@gmail.com.
-- ⚡ Fun fact: I like to get lost in the forest.
+- ☕ Can I offer you a [virtual coffee]([https://calendly.com/pablo-maffioli/15-min-virtual-coffee](https://calendly.com/zayd-m-/30min))?
+- 📫 How to reach me: zayd.m.real@gmail.com.
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)[![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 
 #### Business
 
