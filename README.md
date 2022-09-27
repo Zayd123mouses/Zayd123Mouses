@@ -33,7 +33,7 @@ I'm Zayd Mousa.
 #### Business
 
 - :paperclip: [My Resume/CV](https://github.com/pablo-maff/pablo-maff/blob/main/resumes/Pablo%20Maffioli%20Github%20Resume.pdf)
-- :email: pablo.maff.076@gmail.com
+- :email:zayd.m.real@gmail.com
 
 <details>
 <summary>
