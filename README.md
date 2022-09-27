@@ -21,7 +21,7 @@ I'm Zayd Mousa.
 
 <!-- TODO: Improve BIO Section -->
 - 🔭 I’m currently open to exciting job opportunities.
-- ☕ Can I offer you a [virtual coffee](https://calendly.com/pablo-maffioli/15-min-virtual-coffee](https://calendly.com/zayd-m-/30min)?
+- ☕ Can I offer you a [virtual coffee](https://calendly.com/zayd-m-/30min)?
 - 📫 How to reach me: zayd.m.real@gmail.com.
 
 #### Top Technologies
