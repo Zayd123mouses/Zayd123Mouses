@@ -42,12 +42,12 @@ I'm Zayd Mousa.
 
 <br >
 
-![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablo-maff&count_private=true&theme=tokyonight&hide=stars)
+![Zayd's github stats](https://github-readme-stats.vercel.app/api?username=zayd123mouses&count_private=true&theme=tokyonight&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-maff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd123mouses&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pablo-maff.pablo-maff)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zayd123mouses.zayd123mouses)
 
 </details>
