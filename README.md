@@ -34,7 +34,7 @@ I'm Zayd Mousa. Full stack web developer
 
 #### Business
 
-- :paperclip: [My Resume/CV](https://github.com/pablo-maff/pablo-maff/blob/main/resumes/Pablo%20Maffioli%20Github%20Resume.pdf)
+- :paperclip: [My Resume/CV]()
 - :email:zayd.m.real@gmail.com
 
 <details>
