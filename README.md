@@ -25,7 +25,7 @@ I'm Zayd Mousa. Full stack web developer
 - ☕ Can I offer you a [virtual coffee](https://calendly.com/zayd-m-/30min)?
 - 📫 How to reach me: zayd.m.real@gmail.com.
 
-#### Top Technologies
+#### Worked with
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
