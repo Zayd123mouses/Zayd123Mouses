@@ -50,6 +50,6 @@ I'm Zayd Mousa. Full stack web developer
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zayd123mouses.zayd123mouses)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Zayd123mouses.zayd123mouses)
 
 </details>
