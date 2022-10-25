@@ -34,7 +34,7 @@ I'm Zayd Mousa. Software developer
 
 #### Business
 
-- :paperclip: [My Resume/CV](https://github.com/Zayd123mouses/Zayd123Mouses/blob/main/CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Zayd123mouses/Zayd123Mouses/blob/main/new-cv.pdf)
 - :email:zayd.m.real@gmail.com
 
 <details>
