@@ -35,7 +35,7 @@ I'm Zayd Mousa. Software developer
  
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd123Mouses)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd123Mouses&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd123Mouses&show_icons=true&theme=radical)
 
  
  
