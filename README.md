@@ -51,7 +51,7 @@ I'm Zayd Mousa. Software developer
 
 ![Zayd's github stats](https://github-readme-stats.vercel.app/api?username=zayd123mouses&count_private=true&theme=tokyonight&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayd123mouses&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayd123Mouses&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Profile Visits
 
